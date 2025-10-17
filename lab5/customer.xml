@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<customer><customer_id>C001</customer_id><first_name>Annie</first_name><last_name>Chang</last_name><email>anniez@example.com</email><phone>+1 647 555 0134</phone><address><street>12 Market Street</street><city>San Francisco</city><state>CA</state><postal>94105</postal><country>US</country></address></customer>

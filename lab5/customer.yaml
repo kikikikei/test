@@ -1,0 +1,11 @@
+customer_id: C001
+first_name: Annie
+last_name: Chang
+email: anniez@example.com
+phone: +1 647 555 0134
+address:
+  street: 12 Market Street
+  city: San Francisco
+  state: CA
+  postal: '94105'
+  country: US
